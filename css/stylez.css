@@ -6,6 +6,20 @@
 }
 
 .box1 {
-    margin: 2.5%;
+    padding: 2.5%;
+    background-color: rgb(138, 238, 238);
 }
 
+.box2 {
+    padding: 2.5%;
+    background-color: rgb(147, 207, 174);
+}
+
+.box3 {
+    padding: 2.5%;
+    background-color: rgb(138, 238, 238);
+}
+.box4 {
+    padding: 2.5%;
+    background-color: rgb(147, 207, 174);
+}
