@@ -1,25 +1,37 @@
+  p {
+      font-family: georgia, sans-serif;
+      font-size: 130%;
+  }
   .face1 {
     width: 70px;
     height:93px;
-    border-radius: 7%;
+    border-radius: 9%;
     float: left;
+}
+
+.box0 {
+    padding: 1%;
+
+
 }
 
 .box1 {
     padding: 2.5%;
-    background-color: rgb(138, 238, 238);
+    background-color: rgba(138, 238, 238, 0.5);
 }
 
 .box2 {
     padding: 2.5%;
-    background-color: rgb(147, 207, 174);
+    background-color: rgb(147, 207, 174, 0.5);
+    
 }
 
-.box3 {
-    padding: 2.5%;
-    background-color: rgb(138, 238, 238);
-}
-.box4 {
-    padding: 2.5%;
-    background-color: rgb(147, 207, 174);
+
+body {
+    background-color: rgb(53, 54, 56);
+    background-image: url(/images/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
