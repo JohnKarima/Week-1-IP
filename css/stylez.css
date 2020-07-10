@@ -1,0 +1,4 @@
+body {
+    background: #fff url(/images/background1.jpg) no-repeat bottom;
+    background-attachment: fixed;
+}
