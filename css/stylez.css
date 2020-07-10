@@ -1,4 +1,30 @@
 body {
     background: #fff url(/images/background1.jpg) no-repeat bottom;
     background-attachment: fixed;
+    text-align: right;
+}
+
+.face1 {
+    width: 100px;
+    height: 133.33px;
+    border-radius: 7%;
+
+}
+
+.sidebox1 {
+    float: left;
+}
+
+.sidebox2 {
+    float: right;
+}
+
+
+.sidebox3 {
+     float:left;
+    
+}
+
+.contacts {
+    text-align: center;
 }
