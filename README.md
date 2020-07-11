@@ -20,7 +20,7 @@ $ code .
 -Run the project on Live Server
 
 #Link to live project
-https://github.com/JohnKarima/Week-1-IP.git
+https://johnkarima.github.io/Week-1-IP/
 
 #License
 Copyright <2020> <John Karima>
