@@ -57,6 +57,9 @@ ul {
     padding: 1%;
     line-height: 0%;
 }
+.sizer {
+    font-size: 100%;
+}
 footer p {
     font-size: 100%;
     text-align: center;
