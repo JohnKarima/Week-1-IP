@@ -1,10 +1,19 @@
 body {
-    background-image: url("/images/background1.jpg");
+    background-image: url("images/background1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 }
+
+/* body, .backgroundx {
+    background-image: url("/images/background1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+} */
+
 p {
     font-family: georgia, sans-serif;
     font-size: 170%;
